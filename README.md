@@ -1,3 +1,3 @@
 # git-test
 
-This is Kévin's version of the repository. No you are not the Boss!
+This is Kévin's version of the repository. We are both the BOSS's of this class.
