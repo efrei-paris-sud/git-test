@@ -1,3 +1,3 @@
 # git-test
 
-This is Tom's version of the repository
+This is Kévin's version of the repository
